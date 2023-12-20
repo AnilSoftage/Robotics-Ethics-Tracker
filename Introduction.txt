@@ -1,0 +1,1 @@
+Welcome to the Robotics Ethics Tracker, an open-source initiative hosted on Github that focuses on advancing ethical considerations in the rapidly evolving field of robotics. Our mission is to create a collatborative space where developers, researchers, and ethicists can collectively address the ethical challenges associated with robotics projects.
